@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Players>
+<Player>
+<Nickname>Steve</Nickname>
+<Password>Poisson</Password>
+<Nationality>Floptropic</Nationality>
+<Age>69</Age>
+<Photo/>
+<Color>black</Color>
+<Wins>4</Wins>
+<Losses>5</Losses>
+<PlayTime>
+<Game id="Game1">0 min 15 seg</Game>
+<Game id="Game2">0 min 38 seg</Game>
+<Game id="Game3">0 min 37 seg</Game>
+<Game id="Game4">2 min 43 seg</Game>
+<Game id="Game5">0 min 44 seg</Game>
+<Game id="Game6">2 min 2 seg</Game>
+</PlayTime>
+</Player>
+<Player>
+<Nickname>Go</Nickname>
+<Password>Bang</Password>
+<Nationality>PT</Nationality>
+<Age>20</Age>
+<Photo/>
+<Color>blue</Color>
+<Wins>4</Wins>
+<Losses>0</Losses>
+<PlayTime>
+<Game id="Game1">0 min 38 seg</Game>
+<Game id="Game2">0 min 55 seg</Game>
+<Game id="Game3">0 min 44 seg</Game>
+</PlayTime>
+</Player>
+<Player>
+<Nickname>Carlos</Nickname>
+<Password>1234</Password>
+<Nationality>PT</Nationality>
+<Age>20</Age>
+<Photo/>
+<Color>red</Color>
+<Wins>3</Wins>
+<Losses>6</Losses>
+<PlayTime>
+<Game id="Game1">0 min 15 seg</Game>
+<Game id="Game2">0 min 37 seg</Game>
+<Game id="Game3">0 min 0 seg</Game>
+<Game id="Game4">2 min 43 seg</Game>
+<Game id="Game5">2 min 2 seg</Game>
+</PlayTime>
+</Player>
+</Players>
